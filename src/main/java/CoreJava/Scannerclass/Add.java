@@ -7,6 +7,7 @@ public class Add {
         Scanner ss= new Scanner(System.in);
         System.out.println("Enter value 1");
         int add1=ss.nextInt();
+
         System.out.println("Enter the value 2");
         int add2=ss.nextInt();
         int result=add1+add2;
